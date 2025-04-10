@@ -113,7 +113,7 @@ This project is a complete Cake Shop E-Commerce platform built using PHP and MyS
 ---
 
 ## 📂 Project Structure
-## 🎥 Demo Video
 
-[Click here to watch the demo](demo.mp4)
+## 🎥 Demo Preview
 
+![Demo GIF](demo.gif)
